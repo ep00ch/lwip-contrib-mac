@@ -1,5 +1,6 @@
 .DS_Store
 *.o
+*.swp
 /ports/mac/ElWhip-HTTPD
 /ports/mac/ElWhip\ 0.*
 /ports/win32/msvc/Debug
