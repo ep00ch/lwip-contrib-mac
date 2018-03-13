@@ -1,3 +1,7 @@
+.DS_Store
+*.o
+/ports/mac/ElWhip-HTTPD
+/ports/mac/ElWhip\ 0.*
 /ports/win32/msvc/Debug
 /ports/win32/lwipcfg_msvc.h
 /ports/win32/msvc/Debug unittests
